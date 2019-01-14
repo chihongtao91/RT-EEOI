@@ -6,6 +6,6 @@ The other two tables store positional and static AIS messages obtained through t
 
 Next, vessel information of ships registered by the AIS receivers will be furnished from the grosstonnage.com using the Grosstonnage Package and stored in the ship_info table. This step requires an account for the grosstonnage.com website (deprecated). The ship_info table will then be further updated using the Vesselfinder Package. 
 
-In this repp, you can also find a paper published in the Energy journal as well as the slides used in presentation to IEEE Industrial Engineering & Engineering Management Conference (Big Data & Analytics session). 
+In this repo, you can also find a paper published in the Energy journal as well as the slides used in presentation to IEEE Industrial Engineering & Engineering Management Conference (Big Data & Analytics session). 
 
 Thanks for reading! 
